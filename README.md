@@ -5,3 +5,6 @@ Try &amp; Study of Android
 git flow start...add user commit add..
 git flow start...add user second commit add...
 git flow start....add user  third commit add...
+\n
+\n
+Version 1.0.0
